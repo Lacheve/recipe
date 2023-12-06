@@ -14,6 +14,6 @@
 </ol> 
 ### This is a LOCAL change :)
 
-![recipe tinga](/toolbox_projects/recipe/recipe.jpg)
+![recipe tinga](recipe.jpg)
 
-!recipe
+
