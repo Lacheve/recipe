@@ -1,7 +1,7 @@
 
 # Read me content of the recipe
 
-### Traditional***Mexican***recipe
+### Traditional ***Mexican*** recipe
 
 ### This is a REMOTE change :O
 # recipe 
